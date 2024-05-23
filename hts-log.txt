@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 May 2024 20:21:12 at https://algoat.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://algoat.net/ -O1 "C:\My Web Sites\Admin Template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:22:12	Warning: 	Moved Permanently for https://algoat.net//feed/
+20:22:12	Warning: 	Redirected link is identical because of 'URL Hack' option: https://algoat.net//feed/ and https://algoat.net/feed/
+20:22:12	Warning: 	File has moved from https://algoat.net//feed/ to https://algoat.net/feed/
+20:22:16	Error: 	"Not Found" (404) at link https://algoat.net/wp-json/iawp/search (from https://algoat.net/)
+20:22:16	Error: 	"Not Found" (404) at link https://algoat.net/POST (from https://algoat.net/)
+20:22:16	Error: 	"Not Found" (404) at link https://algoat.net/wp-content/plugins/groovy-menu/assets/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://algoat.net/wp-content/litespeed/css/3a60f0cb262fca7d5995606567703dbb.css?ver=179aa)
+20:22:16	Error: 	"Not Found" (404) at link https://algoat.net/wp-content/plugins/groovy-menu/assets/fonts/fontawesome-webfont.eot? (from https://algoat.net/wp-content/litespeed/css/3a60f0cb262fca7d5995606567703dbb.css?ver=179aa)
+20:22:16	Error: 	"Not Found" (404) at link https://algoat.net/wp-content/plugins/groovy-menu/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://algoat.net/wp-content/litespeed/css/3a60f0cb262fca7d5995606567703dbb.css?ver=179aa)
+20:22:16	Error: 	"Not Found" (404) at link https://algoat.net/wp-content/plugins/groovy-menu/assets/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://algoat.net/wp-content/litespeed/css/3a60f0cb262fca7d5995606567703dbb.css?ver=179aa)
+20:22:21	Warning: 	Moved Permanently for https://algoat.net/?p=222
+20:22:21	Warning: 	File has moved from https://algoat.net/?p=222 to https://algoat.net/support-help-faq/
+20:22:21	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://algoat.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falgoat.net%2Fsupport-help-faq%2F&format=xml (from https://algoat.net/support-help-faq/)
+20:22:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://algoat.net/join (from https://algoat.net/support-help-faq/)
+20:22:21	Error: 	"Not Found" (404) at link https://algoat.net/support-help-faq/POST (from https://algoat.net/support-help-faq/)
+20:22:22	Warning: 	Temporary Redirect for https://algoat.net/join
+20:22:22	Warning: 	File has moved from https://algoat.net/join to https://discord.com/invite/r2ecExH3ss
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 10 seconds : 93 links scanned, 80 files written (10460162 bytes overall) [4557171 bytes received at 65102 bytes/sec], 10194388 bytes transferred using HTTP compression in 70 files, ratio 36%, 13.5 requests per connection
+(7 errors, 9 warnings, 0 messages)

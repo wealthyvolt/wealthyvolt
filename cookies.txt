@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+algoat.net	TRUE	/	FALSE	1999999999	prli_click_2	join
+algoat.net	TRUE	/	FALSE	1999999999	prli_visitor	664f57ee6a42b
+algoat.net	TRUE	/	FALSE	1999999999	_lscache_vary	416d486510901a4fadd26c0b74bb45e9
+
